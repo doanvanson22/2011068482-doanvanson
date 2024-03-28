@@ -8,3 +8,4 @@
 * Ngành học: Công nghệ thông tin
 * Chuyên ngành: Công nghệ phần mềm
 * Sở thích: Chơi thể thao
+* Hoạt động: hutech it open day
