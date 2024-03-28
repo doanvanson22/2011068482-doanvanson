@@ -6,3 +6,5 @@
 * Năm học: 2020-2024
 * Khoa công nghệ thông tin
 * Ngành học: Công nghệ thông tin
+* Chuyên ngành: Công nghệ phần mềm
+* Sở thích: Chơi thể thao
